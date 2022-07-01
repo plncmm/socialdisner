@@ -1,0 +1,7 @@
+-Fase 2: primera administración a pacientes donde se valora la eficacia, dosis-respuesta y de RAM.
+- Fase 3: administración a pacientes donde se compara la
+eficacia y de RAM
+- Fase 4: estudios postcomercialización de nuevas
+indicaciones o posología, RAM, farmacocinética, etc.
+
+

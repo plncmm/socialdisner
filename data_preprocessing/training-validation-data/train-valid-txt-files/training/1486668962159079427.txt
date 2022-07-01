@@ -1,0 +1,3 @@
+Dicho de otra forma, pongamos un sencillo ejemplo: Tenemos 100 personas, de ellas 50 diabetes, 20 insuficiencia cardiaca y 2 fallo renal, y todas tomaron IVM. Ninguna murió de COVID.
+
+

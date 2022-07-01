@@ -1,0 +1,6 @@
+Si encontramos presencia de acidosis metabólica, debemos calcular Brecha aniónica: Na - (Cl + HCO3)
+En casos de hipoalbuminemia (cirrosis hepatica, síndrome nefrótico, etc) debemos corregirla: 
+BA + 2.5 x (4 - alb [gr/dl] )
+Valor normal: 8-12 mEq/L.
+
+

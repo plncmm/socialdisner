@@ -1,0 +1,4 @@
+Partimos de la caracterización de usuarios. 
+Especialistas clínicos nos proporcionan listas de palabras o frases relacionadas con ciertos problemas mentales (suicidio, depresión, TCA). De modo automático, filtramos y anonimizamos tweets para su posterior análisis. 8/20 https://t.co/rqT3FimGIY
+
+
